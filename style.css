@@ -1,0 +1,68 @@
+.header{
+    background: rgb(223, 229, 229);
+    height: 18% ;
+    width: 100%;
+    position: absolute;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+    .logo img {
+        float: left;
+        padding-left: 30px;
+        padding-top: 30px;
+        }
+    .main {
+        float: right;
+        }
+        ul{
+            padding: 20px 100px 0px 0px;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: 20px;
+            }
+            ul li {
+                display: inline-block;
+                margin-left: 50px  
+            }
+                .main ul li a:hover{
+                    background: white;
+                    color: black;
+                }
+    p{
+            position: absolute;
+            margin-left: 28%;
+            text-align: center;
+        }
+main{ 
+    background: rgb(223, 229, 229);
+    position: absolute ;
+    display: block;
+    padding : 13px 21px 13px 10px;
+    margin-top: 120px;
+    margin-left: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+                 }
+    main div{
+        padding-top: 5px;    }
+    main div a:hover{
+        background: white;
+        color: black;
+    }
+.aimag{ 
+    float: right;
+    background: rgb(223, 229, 229);
+    padding : 13px 21px 13px 10px;
+    margin-top: 120px;
+    margin-right:20px ;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+    .aimag div {
+        padding-top: 5px;
+    }
+    .aimag div a:hover{
+        background: white;
+        color: black;
+    }
+        
