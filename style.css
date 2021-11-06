@@ -65,4 +65,6 @@ main{
         background: white;
         color: black;
     }
-        
+.row{ 
+    padding-top: 10%; 
+}
